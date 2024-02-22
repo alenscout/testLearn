@@ -1,4 +1,5 @@
 import requests
 
-request = requests.get("https://github.com/alenscout/testLearn/new/master")
-print(request.status_code)
+request1 = requests.get("https://github.com/alenscout/testLearn/new/master")
+print(request1.status_code)
+print("hiiii")
