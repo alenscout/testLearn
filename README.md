@@ -1,2 +1,2 @@
-koki
+ki
 broky
